@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi, everybody, this is Andy Wei :)
+
+yep, see you later 
